@@ -235,7 +235,7 @@ if __name__ == "__main__":  # pragma: no cover
     console.print()
     console.print(
         Panel(
-            "[b magenta]Hope you enjoy using Rich![/]\n\n"
+            "[b magenta]这句是 Zzz-pg 改的[/]\n\n"
             "Consider sponsoring to ensure this project is maintained.\n\n"
             "[cyan]https://github.com/sponsors/willmcgugan[/cyan]",
             border_style="green",
